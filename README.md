@@ -1,5 +1,7 @@
 # Odin Project: Landing Page
 
+https://narukanaveen.github.io/landing-page/
+
 This is a solution to the [Landing Page project](https://www.theodinproject.com/lessons/foundations-landing-page) from The Odin Project's Foundations course. The goal of this project is to build a complete, modern responsive webpage from scratch using HTML and CSS Flexbox based on a provided design layout.
 
 ## 🛠️ Built With
